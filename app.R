@@ -4,7 +4,7 @@ library(shiny)
 library(magrittr)
 library(GGally)
 
-setwd('~/Desktop/MSAN/MSAN622/Homework/HW3')
+# setwd('~/Desktop/MSAN/MSAN622/Homework/HW3')
 
 fb <- read.delim('Facebook_metrics/dataset_Facebook.csv', sep = ';')
 
