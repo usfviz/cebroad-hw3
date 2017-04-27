@@ -34,7 +34,7 @@ month_week_combos <- vector()
 theme_fb <- theme(
   axis.line = element_blank(), 
   axis.ticks = element_line(size = 0.1),
-  panel.background = element_rect(fill = 'azure2'))
+  panel.background = element_rect(fill = 'gray96'))
 
 for (i in 1:12){
   for (j in 1:5){
